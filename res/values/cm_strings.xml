@@ -191,4 +191,7 @@
     <string name="face_enrolling_close_to_continue">Fold phone during setup</string>
     <string name="face_enrolling_close_to_continue_description">The phone must be folded to set up or use Face Unlock</string>
     <string name="face_enrolling_do_it_later">Do it later</string>
+    <!-- Developer options: MediaTek FPSGO frame reporting (emerald) -->
+    <string name="mtk_fpsgo_title">MediaTek frame boost (FPSGO)</string>
+    <string name="mtk_fpsgo_summary">Report app frames to the MediaTek CPU frame booster. Applies to an app when it restarts, to the whole system after a reboot</string>
 </resources>
