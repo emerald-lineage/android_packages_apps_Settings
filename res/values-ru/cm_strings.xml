@@ -105,6 +105,4 @@
     <string name="face_enrolling_close_to_continue">Сложить устройство во время настройки</string>
     <string name="face_enrolling_close_to_continue_description">Устройство должно быть сложено, чтобы настроить или использовать функцию разблокировки лицом</string>
     <string name="face_enrolling_do_it_later">Отложить</string>
-    <string name="mtk_fpsgo_title">Ускоритель кадров MediaTek (FPSGO)</string>
-    <string name="mtk_fpsgo_summary">Сообщать ускорителю процессора MediaTek о каждом кадре приложений. Применяется к приложению после его перезапуска, ко всей системе — после перезагрузки</string>
 </resources>
